@@ -1,4 +1,3 @@
-<img width="340" alt="Screenshot 2023-09-07 204935" src="https://github.com/CyberSherlockVoyage/CyberSherlockVoyage/assets/144046482/1d745790-fe85-439e-952a-5b7e91258c0b">
 CyberSherlockVoyage
 # Welcome to My GitHub Profile 👋
 
