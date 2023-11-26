@@ -16,7 +16,10 @@ Hi there! I'm CyberSherlock, a passionate and aspiring developer eager to explor
 ⭐I'm a beginner who got into the world of programming on 1st September 2023! So, come along and follow my journey and watch me from going to a beginner to a top class programmer
 ## Get in Touch
 
-📫 Feel free to reach out to me through my Instagram account: cyber_sherlock_
+📫 Feel free to reach out to me through my socials 
+    Instagram account: cyber_sherlock_
+    Twitter/X : @Shifa_shk2009
+
 
 ⭐ If you find any of my projects interesting or helpful, don't forget to star them!
 
