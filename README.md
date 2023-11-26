@@ -17,8 +17,8 @@ Hi there! I'm CyberSherlock, a passionate and aspiring developer eager to explor
 ## Get in Touch
 
 📫 Feel free to reach out to me through my socials 
-    Instagram account: cyber_sherlock_
-    Twitter/X : @Shifa_shk2009
+⭐ Instagram account: cyber_sherlock_
+⭐ Twitter/X : @Shifa_shk2009
 
 
 ⭐ If you find any of my projects interesting or helpful, don't forget to star them!
